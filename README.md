@@ -151,6 +151,4 @@ This repository contains the implementation of a deep learning pipeline that com
 
 ---
 
-For questions or collaborations, please contact **Lekshmi Kalinathan** at [lekshmi.k@vitstudent.ac.in](mailto:lekshmi.k@vitstudent.ac.in).  
-
 ⭐ **Star this repo if you find it useful!** ⭐
