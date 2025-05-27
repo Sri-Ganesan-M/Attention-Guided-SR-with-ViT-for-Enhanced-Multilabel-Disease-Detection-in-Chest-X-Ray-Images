@@ -18,6 +18,12 @@ This repository contains the implementation of a deep learning pipeline that com
 
 ---
 
+## 🖼️ Architecture
+
+![Architecture Diagram](arch.png)
+
+---
+
 ## 📊 Results
 
 ### Performance Metrics
