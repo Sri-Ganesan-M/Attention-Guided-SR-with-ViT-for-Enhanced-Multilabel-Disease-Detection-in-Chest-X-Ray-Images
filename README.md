@@ -4,6 +4,8 @@
 
 This repository contains the implementation of a deep learning pipeline that combines **Vision Transformers (ViT)** and **Latent Diffusion Models (LDM)** for enhanced multilabel disease detection in chest X-ray images. The approach leverages attention maps to identify diagnostically significant regions, applies super-resolution to enhance these regions, and achieves state-of-the-art classification performance.
 
+📄 **Read the full report**: [REPORT.pdf](TEAM_24_FINAL_REPORT.pdf)
+
 ---
 
 ## 🚀 Key Features
@@ -104,40 +106,14 @@ This repository contains the implementation of a deep learning pipeline that com
 
 - **Super-Resolution**: Enhances clarity of critical areas (e.g., pleural effusion).
 
-![Attention Map Visualization](figures/attention_map.png)  
+![Attention Map Visualization](img2.png)  
+![Attention Map Visualization](img1.png)  
 
 *Example of attention map overlay on a chest X-ray.*
 
 ---
 
-## 🔧 Installation
 
-1\. Clone the repository:
-
-   ```bash
-
-   git clone https://github.com/your-repo/medical-vit-super-resolution.git
-
-   cd medical-vit-super-resolution
-
-   ```
-
-2\. Install dependencies:
-
-   ```bash
-
-   pip install -r requirements.txt
-
-   ```
-
-3\. Download pre-trained models:
-
-   - ViT: `google/vit-base-patch16-224-in21k`
-
-   - LDM: `CompVis/ldm-super-resolution-4x-openimages`
-
-
----
 
 ## 📚 References
 
